@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/foodAdvise/static/css/main.ed165564.css",
+    "main.js": "/foodAdvise/static/js/main.b30a6cd0.js",
+    "index.html": "/foodAdvise/index.html",
+    "main.ed165564.css.map": "/foodAdvise/static/css/main.ed165564.css.map",
+    "main.b30a6cd0.js.map": "/foodAdvise/static/js/main.b30a6cd0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed165564.css",
+    "static/js/main.b30a6cd0.js"
+  ]
+}
